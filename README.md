@@ -1,1 +1,2 @@
-# rwd-mediaquery-flexbox
+# rwd-mediaquery-flexbox 
+deployed to https://rashidmilon.github.io/rwd-mediaquery-flexbox/
